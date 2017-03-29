@@ -2,7 +2,7 @@
 
 Godek Docket is one of my small project that I've developed with my dudes.
 
-Covers cover:
+This web app covers:
 
 * Current Ruby version
 
